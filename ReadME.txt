@@ -8,12 +8,9 @@ Code Name: Cerisier
 
 ■ Overview
 
-This Shiny app is designed for researchers conducting experiments (e.g., in psychology),
-where stimulus durations (e.g., 30s, 45s, 55s) need to be randomly assigned in a non-repeating order per participant.
+This Shiny app is designed for researchers conducting experiments (e.g., in psychology), where stimulus durations (e.g., 30s, 45s, 55s) need to be randomly assigned in a non-repeating order per participant.
 The results can be exported as a CSV file.
-
-The output CSV is encoded in **UTF-8 with BOM**, ensuring **full compatibility with Microsoft Excel on Windows/macOS**
-(without garbled characters).
+The output CSV is encoded in UTF-8 with BOM, ensuring full compatibility with Microsoft Excel on Windows/macOS (without garbled characters).
 
 ---
 
@@ -72,7 +69,7 @@ ID,Trial1,Trial2,Trial3
 
 ■ Notes
 
-- Durations must be **distinct integers** (e.g., 30,30,45 → Error)
+- Durations must be distinct integers (e.g., 30,30,45 → Error)
 - Do not include the `.csv` extension in the filename field (it is added automatically)
 - UTF-8 BOM encoding ensures full compatibility with Excel (no garbled characters)
 
