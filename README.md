@@ -1,2 +1,0 @@
-# Experimental_Trial_Randomizer_En
-Experimental_Trial_Randomizer (English)
