@@ -37,10 +37,10 @@ shiny::runApp("app_Experimental_Trial_Randomizer_En")
 
 3. In the app GUI, enter the following fields:
 
-- **Number of participants (N)**: e.g., 100
-- **Durations**: e.g., 30,45,55 (comma-separated)
-- **Seed (optional)**: e.g., 123 (for reproducible randomization)
-- **CSV filename**: e.g., trial_order (omit the .csv extension)
+- Number of participants (N): e.g., 100
+- Durations: e.g., 30,45,55 (comma-separated)
+- Seed (optional): e.g., 123 (for reproducible randomization)
+- CSV filename: e.g., trial_order (omit the .csv extension)
 
 4. Click “Generate Random Order” to display the results.
 
