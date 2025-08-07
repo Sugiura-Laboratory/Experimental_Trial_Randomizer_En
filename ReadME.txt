@@ -31,9 +31,7 @@ The output CSV is encoded in UTF-8 with BOM, ensuring full compatibility with Mi
 
 2. Run the following command to launch the app:
 
-```R
 shiny::runApp("app_Experimental_Trial_Randomizer_En")
-```
 
 3. In the app GUI, enter the following fields:
 
