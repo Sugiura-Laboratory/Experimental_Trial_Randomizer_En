@@ -63,7 +63,7 @@ ID,Trial1,Trial2,Trial3
 ■ File Structure
 
 - `app_Experimental_Trial_Randomizer_En` : The Shiny app source code
-- `README_en.txt`         : This instruction file (English version)
+- `ReadME.txt`         : This instruction file (English version)
 
 ---
 
