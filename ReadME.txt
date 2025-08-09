@@ -1,3 +1,4 @@
+```
 ===========================================
 README - app_Experimental_Trial_Randomizer_En (Shiny App)
 Version: 1.0.0
@@ -5,6 +6,7 @@ Author: Shuichi Sugiura
 Date: 2025-08-07
 Code Name: Cerisier
 ===========================================
+```
 
 ■ Overview
 
